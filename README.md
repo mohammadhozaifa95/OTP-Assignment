@@ -1,32 +1,31 @@
 # 🔐 OTP Verification System (React)
 
 A modern and responsive OTP (One-Time Password) Verification System built using React.js.  
-This project demonstrates OTP generation, display, auto-refresh mechanism, and countdown timer functionality with a clean user interface.
+This project demonstrates OTP generation, display, countdown timer functionality, and auto-refresh mechanism with a clean UI.
 
 ---
 
-## 📌 Project Overview
+## 🌐 Live Demo
 
-This application allows users to:
+https://lucent-starlight-3733ac.netlify.app
 
-- Select OTP generation option
-- View generated OTP
-- See a live countdown timer
-- Auto-refresh OTP after timer expiration
-- Experience a responsive and structured UI
 
-The project is structured using reusable components and clean folder architecture.
+---
+
+## 🔗 GitHub Repository
+
+https://github.com/mohammadhozaifa95/OTP-Assignment
 
 ---
 
 ## 🚀 Features
 
-✔️ OTP Selection Screen  
-✔️ OTP Display Page  
-✔️ Circular Countdown Timer  
-✔️ Auto OTP Refresh After Expiry  
-✔️ Clean & Responsive Design  
-✔️ Component-Based Architecture  
+- OTP Selection Screen
+- OTP Display Page
+- Circular Countdown Timer
+- Auto OTP Refresh After Timer Expiry
+- Clean & Responsive User Interface
+- Component-Based Architecture
 
 ---
 
@@ -63,7 +62,7 @@ src/
 git clone https://github.com/mohammadhozaifa95/OTP-Assignment.git
 ```
 
-### 2️⃣ Navigate into project directory
+### 2️⃣ Navigate into the project folder
 
 ```
 cd OTP-Assignment
@@ -81,7 +80,7 @@ npm install
 npm start
 ```
 
-Application will run on:
+Application runs at:
 
 ```
 http://localhost:3000
@@ -89,34 +88,13 @@ http://localhost:3000
 
 ---
 
-## 🏗️ Build for Production
+## 🏗️ Production Build
 
 ```
 npm run build
 ```
 
 This will create an optimized production build inside the `build/` folder.
-
----
-
-## 🌐 Deployment
-
-The project can be deployed using:
-
-- Vercel
-- Netlify
-- GitHub Pages
-- Any Node-supported hosting platform
-
----
-
-## 📈 Future Improvements
-
-- Backend OTP validation integration
-- SMS/Email OTP service integration
-- API-based OTP generation
-- User authentication system
-- Enhanced UI animations
 
 ---
 
@@ -127,6 +105,6 @@ GitHub: https://github.com/mohammadhozaifa95
 
 ---
 
-## 📄 License
+## 📄 Note
 
-This project is created for assignment and educational purposes.
+This project is developed for assignment and learning purposes.
